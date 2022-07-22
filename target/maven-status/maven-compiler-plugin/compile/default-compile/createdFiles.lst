@@ -1,0 +1,4 @@
+com/htmltopdf/htmlpdfgenerator/utils/EndPosition.class
+com/htmltopdf/htmlpdfgenerator/rest/PDFGeneratorController.class
+com/htmltopdf/htmlpdfgenerator/service/PdfGenerationService.class
+com/htmltopdf/htmlpdfgenerator/HtmlPdfGeneratorApplication.class
